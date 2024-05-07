@@ -5,3 +5,5 @@
 
 Partner 1: Jalen Chen
 Partner 2: Ethan Shih
+
+GitHub Pages: [Explore](https://jchen054.github.io/Lab5_Starter/explore.html) | [Expose](https://jchen054.github.io/Lab5_Starter/expose.html)
